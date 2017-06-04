@@ -1,0 +1,27 @@
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\bin\Debug\Projeodevim.exe.config
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\bin\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\bin\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.csprojResolveAssemblyReference.cache
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.Form1.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.Properties.Resources.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.csproj.GenerateResource.Cache
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim\Projeodevim\obj\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\bin\Debug\Projeodevim.exe.config
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\bin\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\bin\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.csprojResolveAssemblyReference.cache
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.Form1.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.Properties.Resources.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim - Kopya\Projeodevim\obj\Debug\Projeodevim.csproj.GenerateResource.Cache
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\bin\Debug\Projeodevim.exe.config
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\bin\Debug\Projeodevim.exe
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\bin\Debug\Projeodevim.pdb
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.Form1.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.Properties.Resources.resources
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.csproj.GenerateResource.Cache
+C:\Users\HuseyinCengiz\Desktop\Projeodevim 2\Projeodevim\obj\Debug\Projeodevim.csprojResolveAssemblyReference.cache

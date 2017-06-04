@@ -1,0 +1,15 @@
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.exe.config
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.exe
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.pdb
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.exe
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.pdb
+D:\Universite Calısmalar\C#\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.csprojResolveAssemblyReference.cache
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.exe.config
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.exe
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.pdb
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.exe
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.pdb
+C:\Users\HuseyinCengiz\Desktop\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.csprojResolveAssemblyReference.cache
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\NDPOdev_2\NDPOdev_2\bin\Debug\NDPOdev_2.exe.config
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.exe
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\NDPOdev_2\NDPOdev_2\obj\Debug\NDPOdev_2.pdb

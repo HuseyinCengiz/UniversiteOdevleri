@@ -1,0 +1,12 @@
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\bin\Debug\NesneOdev3.exe.config
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\bin\Debug\NesneOdev3.exe
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\bin\Debug\NesneOdev3.pdb
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\obj\Debug\NesneOdev3.csprojResolveAssemblyReference.cache
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\obj\Debug\NesneOdev3.exe
+C:\Users\HuseyinCengiz\Desktop\NesneOdev3\NesneOdev3\obj\Debug\NesneOdev3.pdb
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\bin\Debug\NesneOdev3.exe.config
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\obj\Debug\NesneOdev3.exe
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\obj\Debug\NesneOdev3.pdb
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\bin\Debug\NesneOdev3.exe
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\bin\Debug\NesneOdev3.pdb
+C:\Users\HuseyinCengiz\Desktop\Üniversite Ödevler\b161210111_Odev3\NesneOdev3\obj\Debug\NesneOdev3.csprojResolveAssemblyReference.cache
